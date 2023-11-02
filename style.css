@@ -9,9 +9,12 @@
   left: 0px;
   opacity: 0.5;
 }
-.aboutme {
+.section {
   margin: 5em;
 }
-.aboutme-title {
+.title {
   margin-bottom: 1em;
+}
+.screenshot {
+  max-width: 200px;
 }
