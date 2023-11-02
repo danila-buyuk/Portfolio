@@ -1,3 +1,17 @@
-h1 {
-  margin-top: -5em;
+.thumbnail::before {
+  content: "";
+  background-image: url("./Media/hacker-man-hacker.gif");
+  background-size: cover;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 0.5;
+}
+.aboutme {
+  margin: 5em;
+}
+.aboutme-title {
+  margin-bottom: 1em;
 }
