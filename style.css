@@ -18,3 +18,7 @@
 .screenshot {
   max-width: 200px;
 }
+.icon {
+  padding: 1em;
+  font-size: 50;
+}
